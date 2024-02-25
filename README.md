@@ -2,8 +2,6 @@
 
 WaveTube is a YouTube clone project built with React. It allows users to explore, watch, and interact with video content, as well as search for channels and view channel details. This repository contains the frontend code for the WaveTube application.
 
-![WaveTube Screenshot](screenshot.png)
-
 ## Features
 
 - **Video Streaming:** Watch videos from various categories with an intuitive player interface.
