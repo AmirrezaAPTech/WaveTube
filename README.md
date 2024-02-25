@@ -48,6 +48,10 @@ npm start
 
 Contributions are welcome! If you have any ideas for new features, improvements, or bug fixes, please open an issue or submit a pull request.
 
+## License
+
+Portions of the code related to accessing YouTube data are powered by the YouTube-v31 RapidAPI, and are subject to the terms and conditions of the RapidAPI service.
+
 ## Acknowledgements
 
 WaveTube is inspired by the functionality and design of YouTube. Special thanks to the YouTube API for providing access to video and channel data.
