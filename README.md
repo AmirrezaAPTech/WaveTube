@@ -16,6 +16,7 @@ WaveTube is a YouTube clone project built with React. It allows users to explore
 - **React Router:** A library for routing in React applications.
 - **Axios:** A promise-based HTTP client for making API requests.
 - **FontAwesome:** A library for adding icons to the application.
+- **Tailwind CSS:** A utility-first CSS framework for building custom designs quickly.
 
 ## Installation
 
